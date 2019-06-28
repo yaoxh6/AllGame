@@ -2,7 +2,7 @@
 
 ## KeepDistance 2018.06
 cocos2d制作的2D双人竞技游戏。两个玩家通过释放技能占领方格并改变颜色，在自己的领域内，移动速度加成，在敌方领域内，移动速度减少。玩家所在的区域被敌方玩家占领的一瞬间视为被攻击，玩家被击退一格并扣除血量。[项目代码](https://github.com/yaoxh6/cocosFinal)
-
+[视频文件](mp4/KeepDistance.mp4)
 ![](gif/keepDistance.gif)
 
 ## Mariko 2018.11
